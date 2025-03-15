@@ -1,0 +1,13 @@
+setup.py
+discord/ext/modmail_utils/__init__.py
+discord/ext/modmail_utils/chat_formatting.py
+discord/ext/modmail_utils/config.py
+discord/ext/modmail_utils/converters.py
+discord/ext/modmail_utils/limits.py
+discord/ext/modmail_utils/timeutils.py
+discord/ext/modmail_utils/ui.py
+discord/ext/modmail_utils/views.py
+modmail_utils.egg-info/PKG-INFO
+modmail_utils.egg-info/SOURCES.txt
+modmail_utils.egg-info/dependency_links.txt
+modmail_utils.egg-info/top_level.txt
